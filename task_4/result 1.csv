@@ -1,0 +1,4 @@
+order_id,customer_name,region,order_date,total_amount
+101,Amit,North,2024-01-10,5000.00
+102,Riya,South,2024-01-12,3000.00
+103,Amit,North,2024-01-15,7000.00
