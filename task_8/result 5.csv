@@ -1,0 +1,16 @@
+Id,Neighborhood,SalePrice,row_num
+15,NridgHt,450000.00,1
+11,NoRidge,345000.00,2
+7,NoRidge,307000.00,3
+5,NoRidge,250000.00,4
+14,NridgHt,230000.00,5
+3,CollgCr,223500.00,6
+1,CollgCr,208500.00,7
+8,Somerst,200000.00,8
+13,NAmes,185000.00,9
+2,Veenker,181500.00,10
+12,NAmes,144000.00,11
+6,Mitchel,143000.00,12
+4,Crawfor,140000.00,13
+9,OldTown,129900.00,14
+10,BrkSide,118000.00,15
